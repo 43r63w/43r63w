@@ -12,7 +12,8 @@ My Technologies
 ![Static Badge](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=red&labelColor=black)
 
 
-![Static Badge](https://img.shields.io/badge/MS%20SQL%20SERVER-bfbfbf?style=flat&logo=microsoftsqlserver&logoColor=white&labelColor=bfbfbf)
+![Static Badge](https://img.shields.io/badge/MS%20SQL%20SERVER-gray?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=black)
+
 
 
 

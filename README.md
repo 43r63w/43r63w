@@ -11,5 +11,8 @@ My Technologies
 ![Static Badge](https://img.shields.io/badge/JavaScript-fef580?style=flat&logo=javascript&logoColor=white&labelColor=fef580)
 ![Static Badge](https://img.shields.io/badge/Angular-e83633?style=flat&logo=angular&logoColor=white&labelColor=e83633)
 
+![Static Badge](https://img.shields.io/badge/MS%20SQL%20SERVER-bfbfbf?style=flat&logo=microsoftsqlserver&logoColor=white&labelColor=bfbfbf)
+
+
 
 

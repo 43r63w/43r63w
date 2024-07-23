@@ -18,7 +18,6 @@ My Technologies
 
 
 
-![Static Badge](https://img.shields.io/badge/MS%20SQL%20SERVER-gray?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=white)
 
 

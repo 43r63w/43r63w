@@ -22,7 +22,6 @@ My Technologies:
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=blue&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Azure-PU?style=for-the-badge&logo=azure&logoColor=blue&labelColor=white&color=blue)
-![Static Badge](https://img.shields.io/badge/XUnit-blue?style=for-the-badge&logo=xunit&logoColor=blue&labelColor=white)
 
 
 

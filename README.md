@@ -16,7 +16,7 @@ My Technologies
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=blue&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=purple&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Angular_Material-red?style=for-the-badge&logo=angular&logoColor=red&labelColor=black)
-![Static Badge](https://img.shields.io/badge/PrimeNG-red?style=for-the-badge&logo=primeng&logoColor=red&labelColor=black)
+![Static Badge](https://img.shields.io/badge/PrimeNG-red?style=for-the-badge&logo=primeng&logoColor=red&labelColor=white)
 
 
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=white)

@@ -22,7 +22,7 @@ My Technologies:
 
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=blue&labelColor=white)
-![Static Badge](https://img.shields.io/badge/MinIO-PU?style=for-the-badge&logo=minio&logoColor=red&labelColor=white&color=red)
+![Static Badge](https://img.shields.io/badge/MinIO-PU?style=for-the-badge&logo=azure&logoColor=blue&labelColor=white&color=blue)
 
 
 

@@ -1,15 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<p align="center">My name is Vlad and I'm a Software Engineer</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">Software engineer with year of experience with a focus on<br>backend development.Proficient in .Net .Have experience<br>with frontend development in Angular.I am also interested in<br>developing towards FullStack</p>
 
 ###

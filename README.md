@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Software engineer with year of experience with a focus on<br>backend development.Proficient in .Net .Have experience<br>with frontend development in Angular
+<p align="left">Software engineer focus on<br>backend development.Proficient in .Net .Have experience<br>with frontend development in Angular
 ###
 
 <h2 align="left">Languages:</h2>
